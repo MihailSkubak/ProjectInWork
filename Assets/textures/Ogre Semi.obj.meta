@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 6c6328c233fd8574c9f1a208cc0f3ad8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: DrawCall_0789
+    100002: DrawCall_0790
+    100004: DrawCall_0791
+    100006: DrawCall_0792
+    100008: DrawCall_0793
+    100010: DrawCall_0794
+    100012: DrawCall_0795
+    100014: DrawCall_0796
+    100016: DrawCall_0797
+    100018: DrawCall_0798
+    100020: DrawCall_0799
+    100022: DrawCall_0800
+    100024: DrawCall_0801
+    100026: DrawCall_0802
+    100028: DrawCall_0803
+    100030: DrawCall_0804
+    100032: DrawCall_0805
+    100034: DrawCall_0806
+    100036: DrawCall_0807
+    100038: DrawCall_0808
+    100040: DrawCall_0809
+    100042: DrawCall_0810
+    100044: DrawCall_0811
+    100046: DrawCall_0812
+    100048: DrawCall_0813
+    100050: DrawCall_0814
+    100052: DrawCall_0815
+    100054: DrawCall_0816
+    100056: DrawCall_0817
+    100058: DrawCall_0818
+    100060: DrawCall_0819
+    100062: DrawCall_0820
+    100064: DrawCall_0821
+    100066: DrawCall_0843
+    100068: DrawCall_0844
+    100070: DrawCall_0845
+    100072: DrawCall_0846
+    100074: DrawCall_0847
+    100076: DrawCall_0848
+    100078: DrawCall_1055
+    100080: DrawCall_1057
+    100082: DrawCall_1058
+    100084: DrawCall_1059
+    100086: //RootNode
+    400000: DrawCall_0789
+    400002: DrawCall_0790
+    400004: DrawCall_0791
+    400006: DrawCall_0792
+    400008: DrawCall_0793
+    400010: DrawCall_0794
+    400012: DrawCall_0795
+    400014: DrawCall_0796
+    400016: DrawCall_0797
+    400018: DrawCall_0798
+    400020: DrawCall_0799
+    400022: DrawCall_0800
+    400024: DrawCall_0801
+    400026: DrawCall_0802
+    400028: DrawCall_0803
+    400030: DrawCall_0804
+    400032: DrawCall_0805
+    400034: DrawCall_0806
+    400036: DrawCall_0807
+    400038: DrawCall_0808
+    400040: DrawCall_0809
+    400042: DrawCall_0810
+    400044: DrawCall_0811
+    400046: DrawCall_0812
+    400048: DrawCall_0813
+    400050: DrawCall_0814
+    400052: DrawCall_0815
+    400054: DrawCall_0816
+    400056: DrawCall_0817
+    400058: DrawCall_0818
+    400060: DrawCall_0819
+    400062: DrawCall_0820
+    400064: DrawCall_0821
+    400066: DrawCall_0843
+    400068: DrawCall_0844
+    400070: DrawCall_0845
+    400072: DrawCall_0846
+    400074: DrawCall_0847
+    400076: DrawCall_0848
+    400078: DrawCall_1055
+    400080: DrawCall_1057
+    400082: DrawCall_1058
+    400084: DrawCall_1059
+    400086: //RootNode
+    2300000: DrawCall_0789
+    2300002: DrawCall_0790
+    2300004: DrawCall_0791
+    2300006: DrawCall_0792
+    2300008: DrawCall_0793
+    2300010: DrawCall_0794
+    2300012: DrawCall_0795
+    2300014: DrawCall_0796
+    2300016: DrawCall_0797
+    2300018: DrawCall_0798
+    2300020: DrawCall_0799
+    2300022: DrawCall_0800
+    2300024: DrawCall_0801
+    2300026: DrawCall_0802
+    2300028: DrawCall_0803
+    2300030: DrawCall_0804
+    2300032: DrawCall_0805
+    2300034: DrawCall_0806
+    2300036: DrawCall_0807
+    2300038: DrawCall_0808
+    2300040: DrawCall_0809
+    2300042: DrawCall_0810
+    2300044: DrawCall_0811
+    2300046: DrawCall_0812
+    2300048: DrawCall_0813
+    2300050: DrawCall_0814
+    2300052: DrawCall_0815
+    2300054: DrawCall_0816
+    2300056: DrawCall_0817
+    2300058: DrawCall_0818
+    2300060: DrawCall_0819
+    2300062: DrawCall_0820
+    2300064: DrawCall_0821
+    2300066: DrawCall_0843
+    2300068: DrawCall_0844
+    2300070: DrawCall_0845
+    2300072: DrawCall_0846
+    2300074: DrawCall_0847
+    2300076: DrawCall_0848
+    2300078: DrawCall_1055
+    2300080: DrawCall_1057
+    2300082: DrawCall_1058
+    2300084: DrawCall_1059
+    3300000: DrawCall_0789
+    3300002: DrawCall_0790
+    3300004: DrawCall_0791
+    3300006: DrawCall_0792
+    3300008: DrawCall_0793
+    3300010: DrawCall_0794
+    3300012: DrawCall_0795
+    3300014: DrawCall_0796
+    3300016: DrawCall_0797
+    3300018: DrawCall_0798
+    3300020: DrawCall_0799
+    3300022: DrawCall_0800
+    3300024: DrawCall_0801
+    3300026: DrawCall_0802
+    3300028: DrawCall_0803
+    3300030: DrawCall_0804
+    3300032: DrawCall_0805
+    3300034: DrawCall_0806
+    3300036: DrawCall_0807
+    3300038: DrawCall_0808
+    3300040: DrawCall_0809
+    3300042: DrawCall_0810
+    3300044: DrawCall_0811
+    3300046: DrawCall_0812
+    3300048: DrawCall_0813
+    3300050: DrawCall_0814
+    3300052: DrawCall_0815
+    3300054: DrawCall_0816
+    3300056: DrawCall_0817
+    3300058: DrawCall_0818
+    3300060: DrawCall_0819
+    3300062: DrawCall_0820
+    3300064: DrawCall_0821
+    3300066: DrawCall_0843
+    3300068: DrawCall_0844
+    3300070: DrawCall_0845
+    3300072: DrawCall_0846
+    3300074: DrawCall_0847
+    3300076: DrawCall_0848
+    3300078: DrawCall_1055
+    3300080: DrawCall_1057
+    3300082: DrawCall_1058
+    3300084: DrawCall_1059
+    4300000: DrawCall_0789
+    4300002: DrawCall_0790
+    4300004: DrawCall_0791
+    4300006: DrawCall_0792
+    4300008: DrawCall_0793
+    4300010: DrawCall_0794
+    4300012: DrawCall_0795
+    4300014: DrawCall_0796
+    4300016: DrawCall_0797
+    4300018: DrawCall_0798
+    4300020: DrawCall_0799
+    4300022: DrawCall_0800
+    4300024: DrawCall_0801
+    4300026: DrawCall_0802
+    4300028: DrawCall_0803
+    4300030: DrawCall_0804
+    4300032: DrawCall_0805
+    4300034: DrawCall_0806
+    4300036: DrawCall_0807
+    4300038: DrawCall_0808
+    4300040: DrawCall_0809
+    4300042: DrawCall_0810
+    4300044: DrawCall_0811
+    4300046: DrawCall_0812
+    4300048: DrawCall_0813
+    4300050: DrawCall_0814
+    4300052: DrawCall_0815
+    4300054: DrawCall_0816
+    4300056: DrawCall_0817
+    4300058: DrawCall_0818
+    4300060: DrawCall_0819
+    4300062: DrawCall_0820
+    4300064: DrawCall_0821
+    4300066: DrawCall_0843
+    4300068: DrawCall_0844
+    4300070: DrawCall_0845
+    4300072: DrawCall_0846
+    4300074: DrawCall_0847
+    4300076: DrawCall_0848
+    4300078: DrawCall_1055
+    4300080: DrawCall_1057
+    4300082: DrawCall_1058
+    4300084: DrawCall_1059
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0789Mat
+    second: {fileID: 2100000, guid: 7558ecc164d03724fb9a426e32b2b13a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0790Mat
+    second: {fileID: 2100000, guid: fe16e70694eecb344b3c6e46b1277ae0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0791Mat
+    second: {fileID: 2100000, guid: 58498b6f72f05464190c6a349134de40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0792Mat
+    second: {fileID: 2100000, guid: 8f32fc90dad3c61429610ab7d29f2691, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0793Mat
+    second: {fileID: 2100000, guid: ea0efa6840080bc4298e93b925d4a738, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0794Mat
+    second: {fileID: 2100000, guid: f9324d8e7de73844d8f1ea9309c38e68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0795Mat
+    second: {fileID: 2100000, guid: f7aaeb5173a7d064e98068e1c61eabe3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0796Mat
+    second: {fileID: 2100000, guid: 457b2429bd6b60742b5b94d5ad3fa396, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0797Mat
+    second: {fileID: 2100000, guid: 9fced979ec4919a41869bd8646693f32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0798Mat
+    second: {fileID: 2100000, guid: 5a7220223aec3f14fbfb669376c0566a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0799Mat
+    second: {fileID: 2100000, guid: 2e73ac957f5ebec4ab7d73282a20c26c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0800Mat
+    second: {fileID: 2100000, guid: fc6aadfc4d476df4184735cc30dd0b9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0801Mat
+    second: {fileID: 2100000, guid: 162227ba2e7db2b41ba4a522ae88345e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0802Mat
+    second: {fileID: 2100000, guid: 2dbd3c6dbea83b14d819657ab9b86908, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0803Mat
+    second: {fileID: 2100000, guid: fd37aaf1922b07747805fb28abe82dd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0804Mat
+    second: {fileID: 2100000, guid: 75f9424ce6ecb32418c75c8c8c4895a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0805Mat
+    second: {fileID: 2100000, guid: 3124b1113b3f01447bc0a2a4e7bb8b6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0806Mat
+    second: {fileID: 2100000, guid: 7a5d223223b53694f9361d82a9e047a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0807Mat
+    second: {fileID: 2100000, guid: 0a4d2fd7fd6da8c4180d02c897fd1e84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0808Mat
+    second: {fileID: 2100000, guid: 41395ed8390a3f34ba8cb089f0ed73c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0809Mat
+    second: {fileID: 2100000, guid: 5390f417f367c9945ad0181fb770560c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0810Mat
+    second: {fileID: 2100000, guid: 69ee5561b7cdb7243bb847777d63dda1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0811Mat
+    second: {fileID: 2100000, guid: 4075ddb053125954eb02717bd44788c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0812Mat
+    second: {fileID: 2100000, guid: cd68aa502235afd428462ba91599a626, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0813Mat
+    second: {fileID: 2100000, guid: 8bc87685a9ea9eb438dec7a89733ce01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0814Mat
+    second: {fileID: 2100000, guid: eb4b4e7557adfae4c8bf18d8beca9933, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0815Mat
+    second: {fileID: 2100000, guid: a835733dc546fae4990cbda63912d568, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0816Mat
+    second: {fileID: 2100000, guid: dffa8f45f869cac4f84dda4731ef619a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0817Mat
+    second: {fileID: 2100000, guid: a08e1a96e0547dd46a035fe5f2c454c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0818Mat
+    second: {fileID: 2100000, guid: c8eaa646201f52c4e803a6f8f1468d1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0819Mat
+    second: {fileID: 2100000, guid: 4fe284e41c413854d899ec1be3bfacb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0820Mat
+    second: {fileID: 2100000, guid: e54a80ef7fb7f8542b97af6778fd6c54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0821Mat
+    second: {fileID: 2100000, guid: be17d49dfd44d5043ad0b352d0c0d71b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0843Mat
+    second: {fileID: 2100000, guid: d6aaf4e504ac81a47988fed5cde3cd92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0844Mat
+    second: {fileID: 2100000, guid: f32d6ce7ce989f04ab8f5fb130bf28b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0845Mat
+    second: {fileID: 2100000, guid: 6522c36fa224f944c91425a8c03f156c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0846Mat
+    second: {fileID: 2100000, guid: df0a07fb13f526f4f895e05e4a123107, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0847Mat
+    second: {fileID: 2100000, guid: ad3f97bad9b269143bb72c7e0b93243e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_0848Mat
+    second: {fileID: 2100000, guid: 3e691e1fbf83a96418cc9a530527fc01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_1055Mat
+    second: {fileID: 2100000, guid: 644b38d717edd0648b677162560a6557, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_1057Mat
+    second: {fileID: 2100000, guid: c3250e130f09efa408cee7affc91de6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_1058Mat
+    second: {fileID: 2100000, guid: afd0fed3917b0f1468bc0b3cd54bc4ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_1059Mat
+    second: {fileID: 2100000, guid: bc7102d67118a2a409d51f6abb794d2d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
